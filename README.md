@@ -79,4 +79,4 @@ A projekt oktatási célú felhasználásra és továbbfejlesztésre készült.
 
 **Szerző:** Piláth Károly
 
-**Kapcsolódó blog:** https://pilath.wordpress.com/
+**Kapcsolódó blog:** https://pilath.wordpress.com/2026/10/10/ujra-elokerult-a-micro-epitsunk-hazugsagvizsgalot/
